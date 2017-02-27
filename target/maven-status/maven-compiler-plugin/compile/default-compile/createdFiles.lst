@@ -1,0 +1,5 @@
+com\springboot\StudentController.class
+com\springboot\StudentRepository.class
+com\springboot\StudentAppConfig.class
+com\springboot\StudentService.class
+com\springboot\StudentPojo.class
